@@ -32,15 +32,6 @@
 
 ###
 
-<p align="center">
-  <a>
-    <img height=150 width=300 src="https://spotify-github-profile.kittinanx.com/api/view?uid=gonzalocardonaqueipo&cover_image=true&theme=spotify-embed&show_offline=true&background_color=212121&interchange=true&profanity=true&mode=dark&bar_color=53b14f&bar_color_cover=true" />
-  </a>
-  &nbsp;&nbsp;
-  <a>
-    <img height=150 width=300 src="https://spotify-recently-played-readme.vercel.app/api?user=gonzalocardonaqueipo&count=4&unique=true" alt="Spotify recently played" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
