@@ -32,16 +32,15 @@
 
 ###
 
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=150 width=300 src="https://github-readme-stats.vercel.app/api?username=GonzaloCardona&theme=transparent&show_icons=true&locale=es" />
+<div align="center">
+  <a>
+    <img src="https://github-stats-extended.vercel.app/api?username=GonzaloCardona&show_icons=true&include_all_commits=true&theme=transparent&locale=es" height="195" alt="Estadísticas de GitHub" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=150 width=300 src="https://github-readme-stats.vercel.app/api/top-langs?username=GonzaloCardona&layout=compact&langs_count=8&card_width=320&theme=transparent&locale=es" />
+  <a>
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=GonzaloCardona&layout=compact&langs_count=4&theme=transparent&locale=es" height="195" alt="Lenguajes más usados" />
   </a>
-</p>
+</div>
 
 ###
 
